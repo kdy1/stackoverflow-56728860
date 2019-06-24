@@ -1,0 +1,9 @@
+[package]
+name = "stackoverflow-56728860"
+version = "0.1.0"
+authors = ["강동윤 <kdy1@outlook.kr>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1"
+chashmap = "2"
